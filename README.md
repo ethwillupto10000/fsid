@@ -1,4 +1,4 @@
-# A faster & Simpler uuid generator
+# : A faster(f) & Simpler(s) uuid generator
 
 ## Function Inside
 ```javascript

@@ -1,6 +1,6 @@
 {
   "name": "fsid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "更加快速/精简的uuid生成器/A Faster & Simpler uuid generator",
   "main": "index.js",
   "keywords": [
@@ -11,9 +11,9 @@
   "author": "Neo <neo@usd.dog>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethwillupto10000/uuid2.git"
+    "url": "git+https://github.com/ethwillupto10000/fsid.git"
   },
-  "homepage": "https://github.com/ethwillupto10000/uuid2#README",
+  "homepage": "https://github.com/ethwillupto10000/fsid#README",
   "license": "MIT",
   "scripts": {
   },
@@ -22,7 +22,7 @@
   "devDependencies": {
   },
   "bugs": {
-    "url": "https://github.com/ethwillupto10000/uuid2/issues"
+    "url": "https://github.com/ethwillupto10000/fsid/issues"
   },
   "directories": {
     "lib": "lib"
