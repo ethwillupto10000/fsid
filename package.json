@@ -1,6 +1,6 @@
 {
   "name": "fsid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "更加快速/精简的uuid生成器/A Faster & Simpler uuid generator",
   "main": "index.js",
   "keywords": [
