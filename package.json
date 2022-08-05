@@ -1,0 +1,30 @@
+{
+  "name": "uuid2",
+  "version": "1.0.0",
+  "description": "一个更加快速/精简的uuid生成器/A Faster & Simpler uuid generator",
+  "main": "index.js",
+  "keywords": [
+    "uuid",
+    "key id",
+    "uuid2"
+  ],
+  "author": "Neo <neo@usd.dog>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethwillupto10000/uuid2.git"
+  },
+  "homepage": "https://github.com/ethwillupto10000/uuid2#README",
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/ethwillupto10000/uuid2/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
