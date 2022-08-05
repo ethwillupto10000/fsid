@@ -1,12 +1,14 @@
-# Function Inside
+# A faster * Simpler uuid generator
+
+## Function Inside
 ```javascript
 buildUUID
 buildShortUUID
 ```
 
-# Usage
+## Usage
 ```javascript
-const uuid2 = require('../uuid2')
+const fsid = require('../uuid2')
 console.log(uuid2)
 // {
 //    __esModule: true,
@@ -31,7 +33,7 @@ uuid.buildShortUUID(prefix)
 // 'usr_88136188821659679135184'
 ```
 
-# Installation
+## Installation
 
 - Please use `npm/yarn` install this package
 ```shell
